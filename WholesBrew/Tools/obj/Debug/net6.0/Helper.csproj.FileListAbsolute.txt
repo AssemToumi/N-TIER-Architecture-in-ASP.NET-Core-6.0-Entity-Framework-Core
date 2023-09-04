@@ -1,0 +1,12 @@
+C:\Sandbox\WholesBrew\WholesBrew\Tools\bin\Debug\net6.0\Helper.deps.json
+C:\Sandbox\WholesBrew\WholesBrew\Tools\bin\Debug\net6.0\Helper.dll
+C:\Sandbox\WholesBrew\WholesBrew\Tools\bin\Debug\net6.0\Helper.pdb
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\Helper.csproj.AssemblyReference.cache
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\Helper.AssemblyInfoInputs.cache
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\Helper.AssemblyInfo.cs
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\Helper.csproj.CoreCompileInputs.cache
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\Helper.dll
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\refint\Helper.dll
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\Helper.pdb
+C:\Sandbox\WholesBrew\WholesBrew\Tools\obj\Debug\net6.0\ref\Helper.dll

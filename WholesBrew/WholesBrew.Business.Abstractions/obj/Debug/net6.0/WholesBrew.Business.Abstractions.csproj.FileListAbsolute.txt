@@ -1,0 +1,17 @@
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\bin\Debug\net6.0\WholesBrew.Business.Abstractions.deps.json
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\bin\Debug\net6.0\WholesBrew.Business.Abstractions.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\bin\Debug\net6.0\WholesBrew.Business.Abstractions.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\bin\Debug\net6.0\Helper.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\bin\Debug\net6.0\WholesBrew.Model.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\bin\Debug\net6.0\Helper.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\bin\Debug\net6.0\WholesBrew.Model.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\WholesBrew.Business.Abstractions.csproj.AssemblyReference.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\WholesBrew.Business.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\WholesBrew.Business.Abstractions.AssemblyInfoInputs.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\WholesBrew.Business.Abstractions.AssemblyInfo.cs
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\WholesBrew.Business.Abstractions.csproj.CoreCompileInputs.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\WholesBrew.Business.Abstractions.csproj.CopyComplete
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\WholesBrew.Business.Abstractions.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\refint\WholesBrew.Business.Abstractions.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\WholesBrew.Business.Abstractions.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Business.Abstractions\obj\Debug\net6.0\ref\WholesBrew.Business.Abstractions.dll

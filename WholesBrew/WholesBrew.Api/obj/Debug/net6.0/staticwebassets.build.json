@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qR5q9wmqzKn4w9hGT9nA0k9NSubutckLnfCrIKPmZaY=",
+  "Source": "WholesBrew.Api",
+  "BasePath": "_content/WholesBrew.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

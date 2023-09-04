@@ -1,0 +1,15 @@
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\bin\Debug\net6.0\WholesBrew.Model.deps.json
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\bin\Debug\net6.0\WholesBrew.Model.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\bin\Debug\net6.0\WholesBrew.Model.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\bin\Debug\net6.0\Helper.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\bin\Debug\net6.0\Helper.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\WholesBrew.Model.csproj.AssemblyReference.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\WholesBrew.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\WholesBrew.Model.AssemblyInfoInputs.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\WholesBrew.Model.AssemblyInfo.cs
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\WholesBrew.Model.csproj.CoreCompileInputs.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\WholesBrew.Model.csproj.CopyComplete
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\WholesBrew.Model.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\refint\WholesBrew.Model.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\WholesBrew.Model.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.Model\obj\Debug\net6.0\ref\WholesBrew.Model.dll

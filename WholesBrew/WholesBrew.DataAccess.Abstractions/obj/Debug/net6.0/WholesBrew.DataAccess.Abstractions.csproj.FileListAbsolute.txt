@@ -1,0 +1,17 @@
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\bin\Debug\net6.0\WholesBrew.DataAccess.Abstractions.deps.json
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\bin\Debug\net6.0\WholesBrew.DataAccess.Abstractions.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\bin\Debug\net6.0\WholesBrew.DataAccess.Abstractions.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\bin\Debug\net6.0\Helper.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\bin\Debug\net6.0\WholesBrew.Model.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\bin\Debug\net6.0\Helper.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\bin\Debug\net6.0\WholesBrew.Model.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\WholesBrew.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\WholesBrew.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\WholesBrew.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\WholesBrew.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\WholesBrew.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\WholesBrew.DataAccess.Abstractions.csproj.CopyComplete
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\WholesBrew.DataAccess.Abstractions.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\refint\WholesBrew.DataAccess.Abstractions.dll
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\WholesBrew.DataAccess.Abstractions.pdb
+C:\Sandbox\WholesBrew\WholesBrew\WholesBrew.DataAccess.Abstractions\obj\Debug\net6.0\ref\WholesBrew.DataAccess.Abstractions.dll
