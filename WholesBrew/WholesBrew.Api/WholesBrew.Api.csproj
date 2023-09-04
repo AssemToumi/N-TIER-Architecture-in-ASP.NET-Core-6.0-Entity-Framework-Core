@@ -32,7 +32,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tools\Tools.csproj" />
     <ProjectReference Include="..\WholesBrew.Facades\WholesBrew.Facades.csproj" />
   </ItemGroup>
 
