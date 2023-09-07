@@ -16,7 +16,9 @@ public class WholesalerFacade : AbstractFacade, IWholesalerFacade
 
     public WholesalerFacade(IMapper mapper, IWholesalerService wholesalerservice)
         : base(mapper)
-        => _wholesalersService = wholesalerservice;
+    {
+        _wholesalersService = wholesalerservice;
+    }
 
     public async Task<IEnumerable<WholesalerStockDTO>> GetAllWholesalersAsync()
     {
@@ -25,9 +27,11 @@ public class WholesalerFacade : AbstractFacade, IWholesalerFacade
     }
     public async Task<WholesalerDTO> CreateWholesalerAsync(WholesalerDTO newWholesaler)
     {
-        var _wholesaler = Mapper.Map<WholesalerEntity>(newWholesaler);
-        var wholesaler = await _wholesalersService.CreateWholesalerAsync(_wholesaler);
-        return Mapper.Map<WholesalerDTO>(wholesaler);
+        var wholesalerEntity = Mapper.Map<WholesalerEntity>(newWholesaler);
+        var createdWholesalerEntity = await _wholesalersService.CreateWholesalerAsync(wholesalerEntity);
+
+        var wholesalerDTO = Mapper.Map<WholesalerDTO>(createdWholesalerEntity);
+        return wholesalerDTO;
     }
     public async Task<RestrictionDTO> CreateRestrictionAsync(int wholesalerId, int beerId, int maxQuantity)
     {
