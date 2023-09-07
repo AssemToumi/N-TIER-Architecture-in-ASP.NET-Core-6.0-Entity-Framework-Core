@@ -42,24 +42,24 @@ namespace WholesBrew.Facades.Tests
         private static IEnumerable<WholesalerStockEntity> ExpectedWholesalerStockEntities()
         {
             return new List<WholesalerStockEntity>
-        {
-            new WholesalerStockEntity
             {
-                Id = 1,
-                WholesalerId = 1,
-                BeerId = 101,
-                Quantity = 100,
-                Price = 5.99m,
-            },
-            new WholesalerStockEntity
-            {
-                Id = 2,
-                WholesalerId = 2,
-                BeerId = 102,
-                Quantity = 150,
-                Price = 4.49m,
-            },
-        };
+                new WholesalerStockEntity
+                {
+                    Id = 1,
+                    WholesalerId = 1,
+                    BeerId = 101,
+                    Quantity = 100,
+                    Price = 5.99m,
+                },
+                new WholesalerStockEntity
+                {
+                    Id = 2,
+                    WholesalerId = 2,
+                    BeerId = 102,
+                    Quantity = 150,
+                    Price = 4.49m,
+                },
+            };
         }
 
 
